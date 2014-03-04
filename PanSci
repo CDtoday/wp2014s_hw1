@@ -1,0 +1,460 @@
+<html>
+  
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Web程式設計 第一次作業</title>
+	</head>
+
+	<body>
+
+  		<nav>
+			<a href="http://pansci.tw/contact2">		聯絡我們</a>
+			<a href="http://pansci.tw/about">		關於</a>
+			<a href="http://pansci.tw/join/volunteers">	志工招募</a>
+			<a href="http://pansci.tw/wp-admin">		作者專區</a>
+			<a href="http://pansci.tw/subscript">		訂閱科電報</a>
+			<a href="http://pansci.tw/contributions">	徵稿中</a>
+		</nav>
+
+		<div>
+			<a href="http://pansci.tw">
+				<img src="http://pansci.tw/wp-content/uploads/2013/08/logo2.png" 
+				     class="logo" alt="PanSci 泛科學">
+			</a>
+		</div>
+
+		<div>
+      			<form action="http://pansci.tw" id="searchform" method="get">
+			</form>
+    			<input type="text" id="search" name="s">
+    			<input type="submit" value="搜尋" class="searchb">
+    		</div>
+
+		<p>
+
+		<div>
+   			<a href="http://pansci.tw/archives/category/type/humanbeing">			人體解析</a>
+			<a href="http://pansci.tw/archives/category/type/space">			太空探索</a>
+			<a href="http://pansci.tw/archives/category/type/living">			活得科學</a>
+			<a href="http://pansci.tw/archives/category/type/medicine-disease/health">	健康養生</a>
+			<a href="http://pansci.tw/archives/category/type/earth">			地球脈動</a>
+			<a href="http://pansci.tw/archives/category/type/technology/doityourself">	手作科學</a>
+			<a href="http://pansci.tw/archives/category/type/environment">			環境與我</a>
+			<a href="http://pansci.tw/archives/category/type/scicomm">			科學傳播</a>
+			<a href="http://pansci.tw/archives/category/type/technology">			科技前沿</a>
+			<a href="http://pansci.tw/archives/category/type/nature">			自然生態</a>
+			<a href="http://pansci.tw/archives/category/type/medicine-disease">		醫療疾病</a>
+			<a href="http://pansci.tw/archives/category/type/humanbeing/psy">		精神心理</a>
+		</div>
+
+		<div>
+ 			<ul>
+				<li>
+					<a href="http://pansci.tw/">		首頁</a>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/news">	所有文章</a>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/issues">	特輯</a>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/columns">	專欄</a>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/greatbook">	本月選書</a>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/hots">	熱門文章</a>
+
+					<ul class="sub">
+						<li>
+							<a href=http://pansci.tw/hots/day">		本日熱門</a>
+						</li>
+
+						<li>
+							<a href="http://pansci.tw/hots/week">		本週熱門</a>
+						</li>
+
+						<li>
+							<a href="http://pansci.tw/hots/month">		本月熱門</a>
+						</li>
+					</ul>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/latest">	科學活動</a>
+					
+					<ul class="sub">
+						<li>
+							<a href="http://pansci.tw/latest">		近期活動</a>
+						</li>
+
+						<li>
+							<a href="http://pansci.tw/act">			活動紀實</a>
+						</li>
+					</ul>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/links">	科網資源</a>
+
+					<ul class="sub">
+						<li>
+							<a href="http://pansci.tw/links/citizenscience">公民科學家</a>
+						</li>
+
+						<li>
+							<a href="http://pansci.tw/links/maker">		創客運動</a>
+						</li>
+
+						<li>
+							<a href="http://pansci.tw/links/mooc">		線上公開課</a>
+						</li>
+
+						<li>
+							<a href="http://pansci.tw/links/openaccess">	開放近用</a>
+						</li>
+					</ul>
+				</li>
+
+				<li>
+					<a href="http://pansci.tw/calendar">	科事曆</a>
+				</li>
+			</ul>                    
+		</div>
+
+		<div>
+			<a href="https://twitter.com/PanSci" target="_blank">
+				<img width="28" height="28" 
+				     src="http://pansci.tw/wp-content/themes/Broadcast/images/twitter_social_icon.png" 
+				     style="opacity: 1;">
+			</a>
+
+			&nbsp;&nbsp;
+
+			<a href="https://www.facebook.com/PanSci" target="_blank">
+				<img width="28" height="28"
+				     src="http://pansci.tw/wp-content/themes/Broadcast/images/facebook_social_icon.png" 
+				     style="opacity: 1;">
+			</a>
+
+			&nbsp;&nbsp;
+
+			<a href="http://pansci.tw/feed" target="_blank">
+				<img width="28" height="28" 
+				     src="http://pansci.tw/wp-content/themes/Broadcast/images/rss_social_icon.png"
+				     style="opacity: 1;">
+			</a>
+		</div>
+
+
+		<div>
+			<a title="猴子/打字機/神奇寶貝？" href="http://pansci.tw/archives/56925">
+				<img width="574" height="340"
+				     src="http://pansci.tw/wp-content/uploads/2014/02/ZptozbZ-574x340.png">
+			</a>
+				<h2>猴子/打字機/神奇寶貝</h2>
+					<p>無限猴子定理本身概念並不複雜，但實際上卻是難以應用。因為我們找不到足夠且合法的猴子（動保人士必然會抗議），我們也沒有耐心等足夠久讓他們寫出一本曠世名作。然而，就<a href="http://pansci.tw/archives/56925">[...]</a></p>
+		</div>
+
+		<div>
+			<a title="【紀錄】M.I.C. ╳ 科學再發現－趕流行" href="http://pansci.tw/archives/57173">
+				<img width="574" height="340"
+				     src="http://pansci.tw/wp-content/uploads/2014/03/original-574x315.png">
+    			</a>
+				<h2>【紀錄】M.I.C. ╳ 科學再發現－趕流行</h2>
+					<p>流行性感冒、登革熱這些疾病的名稱，總是每年都要流行一次。這些流行病不但｢復古｣，還能不時｢創新｣，稍微修改一下樣貌就能捲土重來。那麼，負責疫情發布的相關人員要怎<a href="http://pansci.tw/archives/57173"> [...]</a></p>
+		</div>
+
+		<div>
+			<a title="菌兒，別把這世界搞得這麼藍啊！" href="http://pansci.tw/archives/57207">
+				<img width="574" height="340"
+				     src="http://pansci.tw/wp-content/uploads/2014/03/600px-Indigo_cake-574x340.jpg">				  			</a>
+				<h2>菌兒，別把這世界搞得這麼藍啊！</h2>
+					<p>一隻惡名昭彰的人類病原菌，居然能對植物的荷爾蒙產生反應，而且是製造出酵素來把它轉換成一種自然界不常見，除了染布也不知道要用來做什麼的藍色化合物。這到底是怎麼回事<a href="http://pansci.tw/archives/57207"> [...]</a></p>
+		</div>
+
+		<div>
+			<a title="罌粟殼火鍋會讓人上癮嗎?" href="http://pansci.tw/archives/55369">
+				<img width="574" height="340"
+				     src="http://pansci.tw/wp-content/uploads/2014/01/411px-Illustration_Papaver_somniferum0-411x340.jpg">
+    			</a>
+				<h2>罌粟殼火鍋會讓人上癮嗎?</h2>
+					<p>提起罌粟，人們就會想到開始了中華民族恥辱百年的鴉片。罌粟殼是成熟的罌粟果去掉籽後的部分。把它放在了湯裡，會煮出鴉片成分從而使人上癮嗎？<a href="http://pansci.tw/archives/55369"> [...]</a></p>
+		</div>
+
+		<div>
+			<a title="女人天生愛挑剔嗎？" href="http://pansci.tw/archives/54536">
+				<img width="574" height="340"
+				     src="http://pansci.tw/wp-
+content/uploads/2013/12/wt9cuFLyqbZBhZuxPZhqnb0bzpj4U6sgXXJnkkkdqNJABgAAKwQAAEpQ_645x4301-574x340.jpg">				  					</a>
+				<h2>女人天生愛挑剔嗎？</h2>
+					<p>想像一下，現在有一個男生和一個女生在派對上，其中一個人接近另一個人並開始搭訕。當你設想這樣的情景時，很可能會把這個主動搭訕的人設定為男性。心理學家將這種傾向歸結<a href="http://pansci.tw/archives/54536"> [...]</a></p>
+		</div><!-- #info -->
+		
+		<div>
+			<a title="生物醫學的智慧飛彈 -膠原蛋白複合支架" href="http://pansci.tw/archives/55565">
+				<img width="574" height="340"
+				     src="http://pansci.tw/wp-content/uploads/2014/01/13-膠原蛋白支架複合物之應用-2-574x340.jpg">				  	</a>
+				<h2>生物醫學的智慧飛彈 -膠原蛋白複合支架</h2>
+					<p>當你聽到「膠原蛋白」，你會想到什麼呢？美容？養生？工研院的研究團隊將顛覆你對膠原蛋白的印象，他們將膠原蛋白與抗體結合，設計出「膠原蛋白支架」，可以應用在標靶藥物<a href="http://pansci.tw/archives/55565"> [...]</a></p>
+		</div>
+	
+		<div>
+			<h2>最新文章</h2>
+		</div>
+
+		<div class="more">
+			<a href="http://pansci.tw/news">
+				<img src="http://pansci.tw/wp-content/themes/Broadcast/images/more.gif" title="最新文章">
+			</a>
+		</div>
+
+		<p>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/57257">
+					<img width="71" height="61" 
+					     src="http://pansci.tw/wp-content/uploads/2014/03/book-diamond-71x61.jpg">
+				</a>
+			</div>
+			
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/57257" title="昨日世界的是是非非">昨日世界的是是非非</a></h4>
+				
+				<span>2014/03/04</span>
+
+				<br>
+
+				《昨日世界》試圖以第一手的描述，來生動呈現人類社會的過去。從演化史來看，人類社會
+					<a href="http://pansci.tw/archives/57257"> [...]</a>
+			</div>
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/56037">
+					<img width="71" height="61"
+					     src="http://pansci.tw/wp-content/uploads/2014/01/積水鳳梨-71x61.jpg">
+				</a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/56037" title="積水鳳梨的開心農場">積水鳳梨的開心農場</a></h4>
+
+				<span>2014/03/03</span>
+
+				<br>
+
+				積水鳳梨是一種常見的附生植物，中央的花苞積水後會形成一個小池塘，這個小池塘是一個
+					<a href="http://pansci.tw/archives/56037"> [...]</a>
+			</div>
+
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/56925">
+					<img width="71" height="61"
+					     src="http://pansci.tw/wp-content/uploads/2014/02/ZptozbZ-71x61.png">
+				</a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/56925" title="猴子/打字機/神奇寶貝？">猴子/打字機/神奇寶貝？</a> </h4>
+				<span>2014/03/03</span>
+
+				<br>
+					
+				無限猴子定理本身概念並不複雜，但實際上卻是難以應用。因為我們找不到足夠且合法的猴
+					<a href="http://pansci.tw/archives/56925"> [...]</a>
+			</div>
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/57173">
+					<img width="71" height="61" 
+					     src="http://pansci.tw/wp-content/uploads/2014/03/original-71x61.png">
+				</a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/57173" title="【紀錄】M.I.C. ╳ 科學再發現－趕流行">【紀錄】M.I.C. ╳ 科學再發現－趕流行</a></h4>
+							
+				<span>2014/03/03</span>
+
+				<br>
+
+				流行性感冒、登革熱這些疾病的名稱，總是每年都要流行一次。這些流行病不但｢復古｣，
+					<a href="http://pansci.tw/archives/57173"> [...]</a>
+			</div>
+		</div>
+	
+		<div>
+			<h2>本週熱門</h2>
+		</div>
+
+		<div class="more">
+			<a href="http://pansci.tw/hots">
+				<img src="http://pansci.tw/wp-content/themes/Broadcast/images/more.gif" title="本週熱門">
+			</a>
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/56958">
+					<img width="71" height="61" 
+					     src="http://pansci.tw/wp-content/uploads/2014/02/uYzEIFxZZ5oTnj6xuROWLZnEgbzCsV3xwL9AG-2dukIsAQAAfgEAAEpQ-71x61.jpg"></a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/56958" title="跑步岔氣怎麼辦？">跑步岔氣怎麼辦？</a></h4>
+
+				<span>2014/02/26</span>
+
+				<br>
+
+				「運動引起的下腹部短暫疼痛（ETAP）」，在民間，我們更常將它稱為「岔氣」。這一
+					<a href="http://pansci.tw/archives/56958"> [...]</a>
+			</div>
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/56934">
+					<img width="71" height="61"
+					     src="http://pansci.tw/wp-content/uploads/2014/02/will-fight-giant-monsters-for-food-71x61.jpg"></a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/56934" title="餓壞掉了的創傷弧菌">餓壞掉了的創傷弧菌</a></h4>
+
+				<span>2014/02/25</span>
+
+				<br>
+
+				餓肚子是所有生物最難以忍受的逆境。我們在實驗室裡逼迫細菌體驗長期饑餓，卻發現細菌
+					<a href="http://pansci.tw/archives/56934"> [...]</a>
+			</div>
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/56892">
+					<img width="71" height="61" 
+					     src="http://pansci.tw/wp-content/uploads/2014/02/800px-Macro_Biro_writing2-71x61.jpg"></a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/56892" title="破解筆跡隱形祕密">破解筆跡隱形祕密</a></h4>
+
+				<span>2014/02/22</span>
+
+				<br>
+
+				現在流行的魔擦筆，筆頭明明不是橡皮擦，但只要擦一下，墨水顏色就會消失，為什麼呢？
+					<a href="http://pansci.tw/archives/56892"> [...]</a>
+			</div>
+		</div>
+
+		<div>
+			<div class="image">
+				<a href="http://pansci.tw/archives/27655">
+					<img width="71" height="61"
+					     src="http://pansci.tw/wp-content/uploads/2012/09/1102957300-e1348132415364-71x61.jpeg"></a>
+			</div>
+
+			<div class="description">
+				<h4><a href="http://pansci.tw/archives/27655" title="如何鑑定他是不是處男？">如何鑑定他是不是處男？</a></h4>
+
+				<span>2012/09/20</span>
+
+				<br>
+
+				這項可以用來鑑定處男的研究出自美國印第安納大學布魯明頓分校生物系專攻微生物與環境
+					<a href="http://pansci.tw/archives/27655"> [...]</a>
+			</div>
+		</div>
+											
+
+		<div>
+			<h2>PanSci 天天問</h2>
+		</div>
+
+		<div class="more">
+			<a href="http://ask.pansci.tw" target="_blank">
+				<img src="http://pansci.tw/wp-content/themes/Broadcast/images/more.gif" title="PanSci 天天問">
+			</a>
+		</div>
+		
+		<div>
+			<ul>
+				<li>
+					<a title="為什麼不戴眼鏡" href="http://ask.pansci.tw/archives/1374" target="_blank">
+						為什麼不戴眼鏡</a>
+				</li>
+
+				<li>
+					<a title="早餐店奶茶幫助排便？" href="http://ask.pansci.tw/archives/1368" target="_blank">
+						早餐店奶茶幫助排便？</a>
+				</li>
+
+				<li>
+					<a title="蚱蜢會3P？" href="http://ask.pansci.tw/archives/1364" target="_blank">
+						蚱蜢會3P？</a>
+				</li>
+
+				<li>
+					<a title="跑步姿勢: 如何不浪費能量起跑又不讓膝蓋受傷?" href="http://ask.pansci.tw/archives/1353" target="_blank">
+						跑步姿勢: 如何不浪費能量起跑又不讓膝蓋受傷?</a>
+				</li>
+
+				<li>
+					<a title="動物不得使用人用藥物？" href="http://ask.pansci.tw/archives/1345" target="_blank">
+						動物不得使用人用藥物？</a>
+				</li>
+
+				<li>
+					<a title="北太平洋有哪些被人類食用的魚類？" href="http://ask.pansci.tw/archives/1338" target="_blank">
+						北太平洋有哪些被人類食用的魚類？</a>
+				</li>
+
+				<li>
+					<a title="水和摩擦力的關係?" href="http://ask.pansci.tw/archives/1322" target="_blank">
+						水和摩擦力的關係？</a>
+				</li>
+
+				<li>
+					<a title="達爾文父子的實驗為何證明植物轉向光源不是為了光合作用?" href="http://ask.pansci.tw/archives/1318" target="_blank">
+						達爾文父子的實驗為何證明植物轉向光源不是為了光合作用?</a>
+				</li>
+
+				<li>
+					<a title="出/刮痧的痧是微血管破裂的科學證明？" href="http://ask.pansci.tw/archives/1310" target="_blank">
+						出/刮痧的痧是微血管破裂的科學證明？</a>
+				</li>
+
+				<li>
+					<a title="利用軟體的方式能有效降低藍光傷眼嗎?" href="http://ask.pansci.tw/archives/1306" target="_blank">
+						利用軟體的方式能有效降低藍光傷眼嗎?</a>
+				</li>
+			</ul>
+		</div>
+
+		<div>
+			PanSci 泛科學 是台灣數位文化協會的科學素養推動及新內容媒體計畫<br>
+			所有內容，包括文字、圖像、影音，皆為原作者所有，轉載請洽原作者或透過
+				<a href="http://pansci.tw/contact">PanSci編輯部</a>代為詢問。
+		</div>
+
+	</body>
+
+</html>
