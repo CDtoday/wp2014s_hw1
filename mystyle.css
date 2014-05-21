@@ -1,0 +1,153 @@
+﻿body {
+  width: 800px;
+  padding: 1.5em;
+  border-radius: 0.5em;
+  background: url(http://subtlepatterns.com/patterns/geometry.png) repeat;
+  font-family: verdana, Times New Roman, 標楷體, 微軟正黑體;
+  font-size: 20px;
+}
+
+body a {
+  text-decoration: none;  
+}
+
+body ul {
+  list-style-type: none;
+}
+
+#list {
+  width: 100%;
+  float: left;
+  padding: 0.2em;
+  border-bottom: 1px solid;
+}
+
+#list a {
+  color: black;
+  padding: 0.5em;
+  font-size: 0.8em;
+}
+
+.logo {
+  width: 30%;
+  padding: 0.5em 0;
+  float: left;
+}
+
+.search {
+  width: 30%;
+  padding: 0.5em 0;
+  float: right;
+}
+
+.article {
+  position: relative;
+  margin: 0px auto;
+  padding: 30px 0;
+  width: 280px;
+  margin: 1em;
+  overflow:auto;
+}
+
+.article a {
+  color: blue;
+  font-size: 15px;
+  border-bottom: 1px solid;
+}
+
+.side {
+  padding: 2px;
+  position: fixed;
+  top: 50px;
+  right: 10%;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  cursor:pointer;
+}
+
+.menu>li {
+  display: inline-block;
+  position: relative;
+}
+
+.menu a,span {
+  display: block;
+  color: white;
+}
+
+.menu span:hover {
+  opacity: 0.8;
+}
+
+.submenu li:hover, #sub1:hover, #sub2:hover, #sub3:hover {
+  background: white;
+}
+
+.submenu li:hover>a {
+  color: black;
+}
+
+.side li {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #474747), color-stop(100%, #111111));
+}
+
+.submenu {
+  position: absolute;
+  display: none;
+  left: -30px; top: 100%; width: 150%;
+  text-align: center;
+}
+
+.menu>li:hover .submenu {
+  display: block;
+}
+
+#sub1, #sub3 {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #474747), color-stop(25%, #111111));
+}
+
+#sub2 {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #474747), color-stop(33.3%, #111111));
+}
+
+#main article {
+  font-size: 0em;
+}
+
+#main article:hover {
+  font-size: 1em;
+}
+
+#new h2, #hot h2, #ask h2{
+  border-bottom: 1px solid;
+}
+
+#new article:hover, #hot article:hover{
+  margin: 10px;
+  border: 2px solid;
+}
+
+#new .more, #hot .more, #ask .more {
+  position: relative;
+  left:250px;
+  top:-50px;
+}
+
+#ask a {
+  font-size: 0.8em;
+}
+
+#ask li:hover a{
+  font-size: 1.2em;
+  color: black;
+}
+
+footer {
+  background: yellow;
+  padding: 2em;
+  border-top: 1px solid;
+}
+
+footer a{
+  border-bottom: 1px solid;
+}
